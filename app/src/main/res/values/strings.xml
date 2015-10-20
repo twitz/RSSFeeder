@@ -1,0 +1,21 @@
+<resources>
+    <!-- title strings -->
+    <string name="title.application">Feedr</string>
+    <string name="title.feed.main">MainActivity</string>
+
+    <!-- action strings -->
+    <string name="action.settings">Settings</string>
+
+    <!-- menu strings -->
+    <string name="menu.drawer.home">Home</string>
+
+    <!-- tip strings -->
+    <string name="tip.navigation.drawer.open">Open navigation drawer</string>
+    <string name="tip.navigation.drawer.close">Close navigation drawer</string>
+    <string name="menu.drawer.saved">Saved</string>
+    <string name="menu.drawer.add">Add feed</string>
+    <string name="menu.drawer.all">All</string>
+
+    <!-- error messages -->
+
+</resources>
